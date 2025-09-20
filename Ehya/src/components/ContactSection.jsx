@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import item1 from "../assets/item1.svg";
-import item2 from "../assets/item2.svg";
-import item3 from "../assets/item3.svg";
-import item4 from "../assets/item4.svg";
-import item5 from "../assets/item5.svg";
+import item1 from "../assets/Item1.svg";
+import item2 from "../assets/Item2.svg";
+import item3 from "../assets/Item3.svg";
+import item4 from "../assets/Item4.svg";
+import item5 from "../assets/Item5.svg";
 
 const ContactSection = () => {
   const [formData, setFormData] = useState({
