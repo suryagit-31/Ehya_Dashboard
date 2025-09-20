@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@fontsource /dm-sans/400.css;
+@fontsource /dm-sans/500.css;
+@fontsource /dm-sans/700.css;
