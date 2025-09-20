@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "../assets/Hero.png";
 import { MoveRight } from "lucide-react";
-import Underline from "../assets/vector.svg"; // your SVG file
+import Underline from "../assets/Vector.svg";
 
 const HeroSection = () => {
   return (
